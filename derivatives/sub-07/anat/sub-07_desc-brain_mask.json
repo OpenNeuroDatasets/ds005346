@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "sub-07/anat/sub-07_T1w.nii.gz",
+    "sub-07/anat/sub-07_rec-defaced_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
