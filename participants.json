@@ -1,0 +1,20 @@
+{
+    "experiment": {
+        "Description": "The experiment which the participant took part in",
+        "Levels": {
+            "fmri": "fMRI experiment",
+            "meg": "MEG experiment"
+        }
+    },
+    "age": {
+        "Description": "Age of the participant",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Sex of the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    }
+}
