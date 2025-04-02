@@ -17,5 +17,7 @@
         ""
     ],
     "DatasetDOI": "",
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "The fMRI experiment was approved by the Ethics Committee of Shanghai Key Laboratory of Brain-Machine Intelligence for Information Behavior (No. 2024BC028), and the MEG experiment was approved by the West China Hospital of Sichuan University Biomedical Research Ethics Committee (No. 2024[657])"
+    ]
 }
