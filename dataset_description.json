@@ -1,6 +1,6 @@
 {
     "Name": "BABA: Naturalistic fMRI and MEG recordings during viewing of a reality TV show",
-    "BIDSVersion": "v1.8.0",
+    "BIDSVersion": "1.8.0",
     "License": "CC0",
     "Authors": [
         "Jixing Li",
