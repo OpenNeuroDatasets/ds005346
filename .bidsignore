@@ -1,2 +1,2 @@
-quiz/*.csv
-annotation/*.csv
+**/quiz/**
+**/annotation/**
