@@ -1,7 +1,0 @@
-*.csv
-annotation/*.csv
-quiz/*.csv
-stimuli/*.mp4
-annotation/
-quiz/
-stimuli/
