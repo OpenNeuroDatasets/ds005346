@@ -1,0 +1,7 @@
+/quiz/
+/quiz/quiz_questions.csv
+/quiz/quiz_behavioral_results.csv
+/annotation/
+/annotation/wav_acoustics.csv
+/annotation/word_information.csv
+/annotation/transcripts.csv
