@@ -1,2 +1,3 @@
+# .bidsignore
 quiz/**
 annotation/**
